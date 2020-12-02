@@ -1,0 +1,14 @@
+plugins {
+    id 'ear'
+}
+
+
+dependencies {
+    deploy project(path: ':ejbs', configuration: 'archives')
+    deploy project(path: ':servlets', configuration: 'archives')
+}
+
+ear {
+    archivesBaseName = "appl"
+}
+

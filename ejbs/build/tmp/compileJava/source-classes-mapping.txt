@@ -1,0 +1,18 @@
+webservicesserver/NumberToDollars.java
+ webservicesserver.NumberToDollars
+webservicesserver/NumberToWordsResponse.java
+ webservicesserver.NumberToWordsResponse
+webservicesserver/ObjectFactory.java
+ webservicesserver.ObjectFactory
+webservicesserver/NumberToDollarsResponse.java
+ webservicesserver.NumberToDollarsResponse
+webservicesserver/NumberToWords.java
+ webservicesserver.NumberToWords
+ru/test/TestBean.java
+ ru.test.TestBean
+webservicesserver/NumberConversionSoapType.java
+ webservicesserver.NumberConversionSoapType
+webservicesserver/package-info.java
+ webservicesserver.package-info
+webservicesserver/NumberConversion.java
+ webservicesserver.NumberConversion
